@@ -80,7 +80,7 @@ Lately, I've been focusing more on developing my skills in conversational AI, bu
     height="28"
   />
   <img 
-    src="https://img.shields.io/badge/-Copy%20Email-blue?style=for-the-badge" 
+    src="https://img.shields.io/badge/-mwb.mariana@gmail.com-blue?style=for-the-badge" 
     alt="Copy Email"
   />
 </a>
