@@ -4,10 +4,10 @@
 
 ###  I'm Mariana Weigel Borrell
 
-**`Product Designer | Conversational IA | LUI | Design System | Design Ops`**
+**`Product/Service Designer | Conversational IA | LUI | Design System | Design Ops`**
 
-32 years old, a Brazilian with Uruguayan parents, and I've been a designer for over 8 years. Over the years, I've had the chance to work with different products and in various contexts.<br><br>
-Lately, I've been focusing more on developing my skills in conversational AI, but I still continue my studies in object-oriented programming, whether for game development or to improve communication with the development team.<br><br>
+33 years old, a Brazilian with Uruguayan parents, and I've been a designer for over 10 years. Over the years, I've had the chance to work with different products and in various contexts.<br><br>
+I've worked across digital products and services, with a focus on conversational AI, systems thinking, and design operations. However, I still continue my studies in object-oriented programming, whether for game development or to improve communication with the development team.<br><br>
 #
 ### Skills and Tools
 <img
@@ -58,31 +58,27 @@ Lately, I've been focusing more on developing my skills in conversational AI, bu
 **` LUI | Chatbot | SaaS | Fintech | Web | Mobile | Innovation `**
 
 ## Contact
-<a href="https://www.linkedin.com/in/mariana-weigel-borrell-510321140/" target="_blank">
-<img
-    alt="LinkedIn Icon" 
-    width="28" 
-    height="28"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-/>
-
-<a href="https://www.linkedin.com/in/mariana-weigel-borrell-510321140/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge" 
-    alt="LinkedIn"
-  />
-<br>
-<a href="mailto:mwb.mariana@gmail.com">
-  <img 
-    src="https://icons.iconarchive.com/icons/dtafalonso/win-10x/256/Email-icon.png"
-    alt="Envelope Icon" 
-    width="28" 
-    height="28"
-  />
-  <img 
-    src="https://img.shields.io/badge/-mwb.mariana@gmail.com-blue?style=for-the-badge" 
-    alt="Copy Email"
-  />
+<a href="https://www.linkedin.com/in/mariana-weigel-borrell-510321140/" target="_blank"> 
+	<img alt="LinkedIn Icon" width="28" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
+	/> 
+<a href="https://www.linkedin.com/in/mariana-weigel-borrell-510321140/" target="_blank"> 
+	<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge" alt="LinkedIn" 
+	/> 
+<br> 
+<a href="https://mariana-wb.webflow.io/" target="_blank"> 
+<img src="https://icons.iconarchive.com/icons/graphicloads/seo-services/256/services-portfolio-icon.png" alt="Portfolio Icon" width="28" height="28" 
+/> 
+</a> 
+<a href="https://mariana-wb.webflow.io/" target="_blank"> 
+	<img src="https://img.shields.io/badge/-Portfolio-blue?style=for-the-badge" alt="Portfolio" 
+	/> 
+</a> 
+<br> 
+<a href="mailto:mwb.mariana@gmail.com"> 
+	<img src="https://icons.iconarchive.com/icons/dtafalonso/win-10x/256/Email-icon.png" alt="Envelope Icon" width="28" height="28" 
+	/> 
+	<img src="https://img.shields.io/badge/-mwb.mariana@gmail.com-blue?style=for-the-badge" alt="Copy Email" 
+	/> 
 </a>
 
 
